@@ -1,6 +1,6 @@
 
 
-def sum(x,y):
+def sum_numbers(x,y):
     r = x + y
     return r
 
